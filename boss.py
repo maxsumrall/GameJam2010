@@ -1,6 +1,6 @@
 #Written by Jonathan Sumrall
 #George Mason University Game Jam 2010
-
+#Fall 2010
 #See the README for bug info and how to play. 
 
 #Some interesting things you can edit:
